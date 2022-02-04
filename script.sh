@@ -15,3 +15,4 @@ cd ..
 cd fol_2
 chmod 600 *_1.txt *_3.txt
 chmod 777 *_2.txt
+echo "Job completed"
